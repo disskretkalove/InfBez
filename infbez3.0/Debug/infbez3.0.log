@@ -1,0 +1,5 @@
+﻿  infbez3.0.cpp
+C:\Users\Валентин\source\repos\infbez3.0\infbez3.0.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez3.0\infbez3.0.cpp(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez3.0\infbez3.0.cpp(70,21): warning C4018: <: несоответствие типов со знаком и без знака
+  infbez3.0.vcxproj -> C:\Users\Валентин\source\repos\infbez3.0\Debug\infbez3.0.exe
