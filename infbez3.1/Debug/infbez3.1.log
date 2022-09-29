@@ -1,0 +1,4 @@
+﻿  infbez3.1.cpp
+C:\Users\Валентин\source\repos\infbez3.1\infbez3.1.cpp(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez3.1\infbez3.1.cpp(71,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  infbez3.1.vcxproj -> C:\Users\Валентин\source\repos\infbez3.1\Debug\infbez3.1.exe

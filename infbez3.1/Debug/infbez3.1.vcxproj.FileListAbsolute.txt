@@ -1,0 +1,2 @@
+C:\Users\Валентин\source\repos\infbez3.1\Debug\infbez3.1.exe
+C:\Users\Валентин\source\repos\infbez3.1\Debug\infbez3.1.pdb
