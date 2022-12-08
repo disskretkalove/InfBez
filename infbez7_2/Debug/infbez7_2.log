@@ -1,0 +1,22 @@
+﻿  infbez7_2.cpp
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(13,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(25,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(45,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(53,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(56,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(65,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(76,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(93,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(107,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(118,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(116,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(165,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(167,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Валентин\source\repos\infbez7_2\infbez7_2.cpp(170,6): warning C4101: k: неиспользованная локальная переменная
+  infbez7_2.vcxproj -> C:\Users\Валентин\source\repos\infbez7_2\Debug\infbez7_2.exe

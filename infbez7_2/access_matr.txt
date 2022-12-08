@@ -1,0 +1,10 @@
+8
+10
+_ W _ _ RW R RW _ RW _ 
+_ W _ _ _ _ W _ _ _ 
+RW W _ _ RW W RW _ W R 
+RW _ _ _ _ RW _ _ R _ 
+_ _ _ R RW RW _ _ W _ 
+_ _ W R _ W _ RW W R 
+_ _ W R _ RW _ _ _ RW 
+RW _ RW RW R W _ R _ RW 
